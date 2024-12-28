@@ -11,4 +11,4 @@ sysopctl is a custom command-line tool for Linux, designed to manage system reso
 ### Installation
 1. Clone the repository:
    ```bash
- [  git clone https://github.com/<your-username>/<repository-name>.git](https://github.com/capmaxx07/sysopctl.git)
+   https://github.com/capmaxx07/sysopctl.git
