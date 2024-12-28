@@ -29,9 +29,6 @@ o Expected Output: Summary of recent critical log entries, utilizing tools like
 journalctl.
 
 
-# Screenshot
-
-
 ## Overview
 sysopctl is a custom command-line tool for Linux, designed to manage system resources, tasks, and health effectively.
 
